@@ -57,4 +57,6 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 This material is constantly updated for you, so stay tuned! ... (e.g. this means that the rest of the chapters are currently be written :D
 
-Still thinking what to write next. As this is an ongoing project.
+Still thinking what to write next, as this is an ongoing project.
+Next  would be to commit with the changes and pass the information with new writters.
+Stay tuned.
